@@ -16,7 +16,7 @@
 
 4. Dentro de la rama A, creamos algunos archivos
     ![04](./images/04.png)
-git
+
 ## Actividad 2 - se visualiza en la rama "main"
 
 ## Actividad 3 - se visualiza en la rama "main"
