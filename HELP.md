@@ -2,27 +2,24 @@
 
 ## Actividad 1 - se puede visualizar en la rama A
 
-## Actividad 2 
+## Actividad 2 - se puede visualizar en la rama "main"
 
-1. Regresar al directorio main y creamos un archivo ".gitignore"
+## Actividad 3 - se puede visualizar en la rama "main"
 
-    ![05](./images/05.png)
+## Actividad 4 - se puede visualizar en la rama A y B
 
-2. En el IDE, nos ubicamos dentro del archivo "gitignore" para introducir las carpetas a restringir
+## Actividad 5 
 
-    ![06](./images/06.png)
+1. Como hotfix/main es un branch, creamos este branch desde main.
 
-## Actividad 3
+    ![13](./images/13.png)
 
-1. En el mismo directorio “main” se crean dos carpetas con el comando “mkdir”
+2. Possteriormente hacemos cualquier modificación para generar un commit.
 
-    ![07](./images/07.png)
+    ![14](./images/14.png)
 
-2. Por default, GIT solo incluye cambios en el historial con carpetas que tienen algún archivo, sin embargo, este no los tiene, por lo que agregamos un archivo vacio.
+Nota: En el nombre del commit me equivoqué al momento de asignar a “"FIX: issue 2"” y le puse “Este comit es para la rama A”
 
-    ![08](./images/08.png)
+3. Despues de hacer el commit nos dirigimos a la rama A y usar el comando Cherry-pick solo para aplicar este commit individual.
 
-3. Las carpetas son consideradas a pesar de no tener un archivo, solo tendrá el archivo gitkeep
-
-    ![09](./images/09.png)
-    
+    ![15](./images/15.png)
