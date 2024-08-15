@@ -25,3 +25,4 @@
 3. Las carpetas son consideradas a pesar de no tener un archivo, solo tendrá el archivo gitkeep
 
     ![09](./images/09.png)
+    
