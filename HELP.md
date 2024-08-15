@@ -34,3 +34,5 @@
 3. Después de estos cambios en la rama B, estos se cargan a la rama A
 
     ![12](./images/12.png)
+
+## Actividad 5 - se visualiza en la rama hotfix/main
