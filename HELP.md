@@ -2,26 +2,20 @@
 
 ## Actividad 1 - se puede visualizar en la rama A
 
-## Actividad 2 
+## Actividad 2 - se visualiza en la rama "main"
 
-1. Regresar al directorio main y creamos un archivo ".gitignore"
+## Actividad 3 - se visualiza en la rama "main"
 
-    ![05](./images/05.png)
+## Actividad 4 - se visualiza en la rama B tanto como en la A
 
-2. En el IDE, nos ubicamos dentro del archivo "gitignore" para introducir las carpetas a restringir
+1. Se crea una rama B al igual que la A, en base a main.
 
-    ![06](./images/06.png)
+    ![10](./images/10.png)
 
-## Actividad 3
+2. Una nueva modificación a criterio personal, fue crear un archivo nuevo en la carpetaF
 
-1. En el mismo directorio “main” se crean dos carpetas con el comando “mkdir”
+    ![11](./images/111.png)
 
-    ![07](./images/07.png)
+3. Después de estos cambios en la rama B, estos se cargan a la rama A
 
-2. Por default, GIT solo incluye cambios en el historial con carpetas que tienen algún archivo, sin embargo, este no los tiene, por lo que agregamos un archivo vacio.
-
-    ![08](./images/08.png)
-
-3. Las carpetas son consideradas a pesar de no tener un archivo, solo tendrá el archivo gitkeep
-
-    ![09](./images/09.png)
+    
